@@ -1,0 +1,40 @@
+.statblock {
+    background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\blockbackground.jpg);
+    height: 650px;
+    display: grid;
+    align-items: center;
+    justify-content: start;
+    padding: 0px;
+    padding-left: 50px;
+    color: #cf972e;
+    margin-left: 45px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+.stat_input {
+    font-weight: bold;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 1em;
+    appearance: none;
+    color: currentcolor;
+    background: transparent;
+    width: 70px;
+    height: 60px;
+    padding: 0.8em;
+    text-align: center;
+    position: relative;
+    
+}
+
+.stat_input:focus {
+    outline: 0;
+}
+
+.topstat {
+    padding-top: 15px;
+}
+
+.botstat {
+    padding-bottom: 15px;
+}

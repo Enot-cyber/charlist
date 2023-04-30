@@ -1,0 +1,61 @@
+.charinfo {
+  background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\blockbackground.jpg);
+  display: grid;
+  grid-template-columns: 25% 75%;
+  border-radius: 15px;
+  width: 95%;
+  height: 175px;
+  margin-left: 45px;
+  margin-bottom: 30px;
+  color: #cf972e;
+}
+
+.info_input {
+  font-weight: bold;
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 1.1em;
+  appearance: none;
+  color: currentcolor;
+  background: transparent;
+  width: 370px;
+  padding: 0.8em;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.info_input:focus {
+  outline: 0;
+}
+
+.nameblock {
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nameblocktext {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-size: 20px;
+}
+
+
+.infoblock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  margin-left: 30px;
+}
+
+.blocktext {
+  justify-content: space-between;
+  display: flex;
+  font-size: 20px;
+}

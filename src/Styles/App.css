@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.App {
+  background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\background.jpg);
+  background: auto;
+  background-repeat: repeat;
+  font-family: 'DotGothic16', sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 15px;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+.mainbody {
+  display: grid;
+  grid-template-columns: 33% 33% 33% ;
+}
