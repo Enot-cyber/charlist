@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Charstat extends Component {
   render() {
     return (
-      <div className='statblock'>
+      <div className='characteristicblock'>
         <div className='topstat'>
           <input
             className='stat_input'

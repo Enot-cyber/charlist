@@ -1,8 +1,10 @@
 import './Styles/App.css';
 import './Styles/Charinfo.css';
-import './Styles/Statinfo.css'
+import './Styles/Statinfo.css';
+import './Styles/HpAc.css';
 import Charinfo from './mainbody/Charinfo';
 import Charstat from './mainbody/Charstat';
+import Health_Armor from './mainbody/Health_Armor';
 
 const App = () => {
 
@@ -26,16 +28,16 @@ const App = () => {
         </div>
       </div>
       <div className='mainbody'>
-        <div>
+        <div className='statblock'>
           <div>
-          <Charstat />
+            <Charstat />
           </div>
           <div>
-            
+            <input></input>
           </div>
         </div>
         <div>
-
+          <Health_Armor />
         </div>
         <div>
 

@@ -1,15 +1,10 @@
-.statblock {
-    background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\blockbackground.jpg);
+.characteristicblock {
     height: 650px;
     display: grid;
     align-items: center;
     justify-content: start;
     padding: 0px;
-    padding-left: 50px;
-    color: #cf972e;
-    margin-left: 45px;
-    margin-bottom: 30px;
-    border-radius: 15px;
+    padding-left: 30px;
 }
 
 .stat_input {
@@ -24,7 +19,8 @@
     padding: 0.8em;
     text-align: center;
     position: relative;
-    
+    border-radius: 15px;
+    background: hsla(0, 0%, 50%, 0.3);
 }
 
 .stat_input:focus {
