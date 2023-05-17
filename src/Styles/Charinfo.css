@@ -1,5 +1,5 @@
 .charinfo {
-  background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\blockbackground.jpg);
+  background-image: url("../../public/blockbackground.jpg");
   display: grid;
   grid-template-columns: 25% 75%;
   border-radius: 15px;

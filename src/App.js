@@ -1,7 +1,7 @@
-import './Styles/App.css';
-import './Styles/Charinfo.css';
-import './Styles/Statinfo.css';
-import './Styles/HpAc.css';
+import './styles/App.css';
+import './styles/Charinfo.css';
+import './styles/Statinfo.css';
+import './styles/HpAc.css';
 import Charinfo from './mainbody/Charinfo';
 import Charstat from './mainbody/Charstat';
 import Health_Armor from './mainbody/Health_Armor';

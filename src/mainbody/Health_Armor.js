@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class Health_Armor extends Component {
-    render() {
+export default function Health_Armor()  {
+    
         return (
             <div className='hpac_stat'>
                 <div className='armor_stat'>
@@ -15,5 +15,4 @@ export default class Health_Armor extends Component {
                 </div>
             </div>
         )
-    }
 }
