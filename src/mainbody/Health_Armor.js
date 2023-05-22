@@ -7,7 +7,7 @@ export default function Health_Armor()  {
                 <div className='armor_stat'>
                     <input type='text'
                         name='test'
-                        placeholder="I'm alive here"
+                        placeholder="I'm live here"
                     />
                 </div>
                 <div className='hp_stat'>

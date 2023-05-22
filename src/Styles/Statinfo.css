@@ -23,6 +23,23 @@
     background: hsla(0, 0%, 50%, 0.3);
 }
 
+.bonusstat {
+    font-weight: bold;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 1em;
+    appearance: none;
+    color: currentcolor;
+    background: transparent;
+    width: 70px;
+    height: 60px;
+    padding: 0.8em;
+    text-align: center;
+    position: relative;
+    border-radius: 15px;
+    background: hsla(0, 0%, 50%, 0.3);
+    margin-left: 5px;
+}
+
 .stat_input:focus {
     outline: 0;
 }

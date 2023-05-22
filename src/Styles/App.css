@@ -28,7 +28,7 @@
 .statblock {
   background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\blockbackground.jpg);
   display: grid;
-  grid-template-columns: 25% 75%;
+  grid-template-columns: 40% 60%;
   color: #cf972e;
   margin-left: 45px;
   margin-bottom: 30px;
