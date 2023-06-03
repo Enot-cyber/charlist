@@ -1,5 +1,5 @@
 .hpac_stat {
-    background-image: url(C:\Users\3n0t\ReactJS\DND_Charlist\charlist\public\blockbackground.jpg);
+    background-image: url("../../public/blockbackground.jpg");
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 30px;
